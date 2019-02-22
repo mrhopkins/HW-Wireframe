@@ -2,20 +2,21 @@
 Instructions:
 
 * Body
-        font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-        color: #777;
-        background: #777;
-        width: 960px;
-        font-size: 18px;
-    Header, Nav, Section, Aside, and Footer
-        background: #ebebeb;
-    Article
-        color: #ebebeb;
-        background: #777;
-    h1 and p
-        color: #777;
-        background: #ebebeb;
-3. The widths of each section should be:
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  color: #777;
+  background: #777;
+  width: 960px;
+  font-size: 18px;
+Header, Nav, Section, Aside, and Footer
+  background: #ebebeb;
+Article
+  color: #ebebeb;
+  background: #777;
+h1 and p
+  olor: #777;
+  background: #ebebeb;
+
+The widths of each section should be:
     width: 495px;
    
    */
@@ -53,8 +54,8 @@ nav {
 	width: 495px;
 	height: 300px;
 	padding-top: 30px;
-	float: left;
-	margin-bottom: 20px;
+  margin-bottom: 20px;
+  float: left;
 }
 
 #article1 {
